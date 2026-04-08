@@ -1,4 +1,4 @@
-## Hi, Im Melani 👋
+## Hi, I'm Melani 👋
 
 I'm a third year student pursuing my Bachelor's degree in Computer Science from the University of Wisconsin-Milwaukee. I have a passion for design and creative technologies. 
 
