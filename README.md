@@ -7,7 +7,7 @@ I'm a senior pursuing my Bachelor's degree in Computer Science from the Universi
 <ul>
 <li>Java, C, HTML, CSS, Python</li>
 <li>Eclipse, Python Charm, VS Code</li>
-<li>Photoshop, Adobe Illustrator, Substance Painter, Unreal Engine, Unity</li>
+<li>Adobe, Unreal Engine, Unity</li>
 <li>Maya, Blender</li>
 </ul>
 <!--
