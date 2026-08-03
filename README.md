@@ -7,8 +7,8 @@ I'm a senior pursuing my Bachelor's degree in Computer Science from the Universi
 <p><strong>Programing Languages: </strong> HTML, CSS, Python, C, Java </p>
 <p><strong>IDEs & Code Editors:</strong> Visual Studio Code, Eclipse, PyCharm </p>
 <p><strong>Game Engines:</strong> Unreal Engine, Unity</p>
-<p><strong>Design Software:</strong>Adobe Creative Cloud</p>
-<p><strong>3D Modeling:</strong>Maya, Blender, Nomad Sculpt</p>
+<p><strong>Design Software: </strong>Adobe Creative Cloud</p>
+<p><strong>3D Modeling: </strong>Maya, Blender, Nomad Sculpt</p>
 
 
 <!--
