@@ -4,7 +4,7 @@ I'm a senior pursuing my Bachelor's degree in Computer Science from the Universi
 
 <h3 align="left">Technical Skills:</h3>
 
-<p><strong>Programing Languages: </strong> HTML, CSS, Python, C, Java </p>
+<p><strong>Programing Languages: </strong> HTML, CSS, JavaScript, SQL, Python, C, Java </p>
 <p><strong>IDEs & Code Editors:</strong> Visual Studio Code, Eclipse, PyCharm </p>
 <p><strong>Game Engines:</strong> Unreal Engine, Unity</p>
 <p><strong>Design Software: </strong>Adobe Creative Cloud</p>
